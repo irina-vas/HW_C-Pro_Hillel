@@ -10,23 +10,25 @@ namespace HW_1
     {
         static void Main(string[] args)
         {
-            //char[] alphabet = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
-            //Console.WriteLine("Enter a letter");
-            //string targetStr = Console.ReadLine();
-            //if (targetStr.Length < 0)
-            //{
-            //    Console.WriteLine("Empty input");
-            //}
-            //else if (!targetStr.All(char.IsLetter))
-            //{
-            //    Console.WriteLine("Enter only letters");
-            //}
-            //else
-            //{
-            //    char alphabetChar = targetStr[0];
-            //    int index = Array.IndexOf(alphabet, alphabetChar);
-            //    Console.WriteLine("Index of the letter " + "'" + alphabetChar + "'" + " is " + (index + 1));
-            //}
+            char[] alphabet = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
+            Console.WriteLine("Enter a letter");
+            string targetStr = Console.ReadLine();
+
+            if (targetStr.Length == 0)
+            {
+                Console.WriteLine("Empty input");
+            }
+            else if (!targetStr.All(char.IsLetter))
+            {
+                Console.WriteLine("Enter only letters");
+            }
+            else
+            {
+                char alphabetChar = char.ToUpper(targetStr[0]);
+                int index = Array.IndexOf(alphabet, alphabetChar);
+                Console.WriteLine("Index of the letter '" + alphabetChar + "' is " + (index + 1));
+            }
+
 
             // HW - 2
 
@@ -45,7 +47,8 @@ namespace HW_1
             Console.Write("Enter the length of the random symbols: ");
             string length = Console.ReadLine();
             int strLength;
-            if (length.Length > 0 && int.TryParse(length, out strLength)) {
+            if (length.Length > 0 && int.TryParse(length, out strLength))
+            {
                 strLength = Convert.ToInt32(length);
                 const string symbols = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!/?\"£$%^&*()<>,.@~#;:{}[]";
                 Random random = new Random();
@@ -57,11 +60,12 @@ namespace HW_1
                 }
 
                 Console.WriteLine("Random generated symbols: " + randomSymbols);
-            } else
+            }
+            else
             {
                 Console.WriteLine("You entered a non-numeric value");
             }
-            
+
 
             Console.Read();
         }
