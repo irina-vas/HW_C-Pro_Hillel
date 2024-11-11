@@ -5,3 +5,10 @@ C:\Users\t-ivasylenko\source\repos\HW-1\HW-1\obj\Debug\HW-1.csproj.AssemblyRefer
 C:\Users\t-ivasylenko\source\repos\HW-1\HW-1\obj\Debug\HW-1.csproj.CoreCompileInputs.cache
 C:\Users\t-ivasylenko\source\repos\HW-1\HW-1\obj\Debug\HW-1.exe
 C:\Users\t-ivasylenko\source\repos\HW-1\HW-1\obj\Debug\HW-1.pdb
+C:\Users\t-ivasylenko\source\repos\ALL_HWs\HW-1\HW-1\bin\Debug\HW-1.exe.config
+C:\Users\t-ivasylenko\source\repos\ALL_HWs\HW-1\HW-1\bin\Debug\HW-1.exe
+C:\Users\t-ivasylenko\source\repos\ALL_HWs\HW-1\HW-1\bin\Debug\HW-1.pdb
+C:\Users\t-ivasylenko\source\repos\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.csproj.AssemblyReference.cache
+C:\Users\t-ivasylenko\source\repos\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.csproj.CoreCompileInputs.cache
+C:\Users\t-ivasylenko\source\repos\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.exe
+C:\Users\t-ivasylenko\source\repos\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.pdb
