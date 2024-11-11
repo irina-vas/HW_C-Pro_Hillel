@@ -12,3 +12,11 @@ C:\Users\t-ivasylenko\source\repos\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.csproj.Assem
 C:\Users\t-ivasylenko\source\repos\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.csproj.CoreCompileInputs.cache
 C:\Users\t-ivasylenko\source\repos\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.exe
 C:\Users\t-ivasylenko\source\repos\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.pdb
+D:\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.csproj.AssemblyReference.cache
+D:\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.csproj.SuggestedBindingRedirects.cache
+D:\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.csproj.CoreCompileInputs.cache
+D:\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.exe
+D:\ALL_HWs\HW-1\HW-1\obj\Debug\HW-1.pdb
+D:\ALL_HWs\HW-1\HW-1\bin\Debug\HW-1.exe.config
+D:\ALL_HWs\HW-1\HW-1\bin\Debug\HW-1.exe
+D:\ALL_HWs\HW-1\HW-1\bin\Debug\HW-1.pdb
